@@ -2,3 +2,4 @@ this is the first line i am committing
 1st commit 
 2nd commit 
 3rs commit
+made seond branch and also deleted the one branch i made before
