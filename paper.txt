@@ -1,2 +1,8 @@
 this is the first line i am committing
+<<<<<<< HEAD
 i just the branched this file with another name paper01
+=======
+1st commit 
+2nd commit 
+3rs commit
+>>>>>>> feature/paper01
